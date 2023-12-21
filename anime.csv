@@ -8967,7 +8967,7 @@ anime_id,name,genre,type,episodes,rating,members
 29926,Inaka Nezumi to Machi Nezumi,Kids,Movie,1,4.28,89
 8786,Inakappe Taishou,"Comedy, Sports",TV,104,6.80,184
 26299,Inamuranohi,"Drama, Historical, Kids",OVA,1,8.00,47
-34502,Inazma Delivery,"Action, Comedy, Sci-Fi",TV,10,,32
+34502,Inazma Delivery,"Action, Comedy, Sci-Fi",TV,10,0,32
 28235,Indie Anibox: Selma Danbaekjil Coffee,"Comedy, Drama, Romance, Samurai, Sci-Fi",Movie,1,7.22,109
 32227,Inemuri Buu-chan,Kids,Movie,1,4.11,53
 16259,Inferious Wakusei Senshi Gaiden Condition Green,"Action, Sci-Fi",OVA,6,6.08,116
@@ -9656,7 +9656,7 @@ anime_id,name,genre,type,episodes,rating,members
 19817,Namakemono ga Miteta,"Music, Seinen, Slice of Life",OVA,2,6.42,65
 32876,Nameko: Sekai no Tomodachi,Comedy,TV,0,5.60,261
 33583,Nana Moon,"Fantasy, Kids",TV,52,6.00,36
-34309,Nananin no Ayakashi: Chimi Chimi Mouryou!! Gendai Monogatari,"Comedy, Supernatural",TV,0,,129
+34309,Nananin no Ayakashi: Chimi Chimi Mouryou!! Gendai Monogatari,"Comedy, Supernatural",TV,0,0,129
 26335,Nanatsu no Hoshi,"Drama, Kids",OVA,1,7.33,102
 25083,Nanatsu no Umi no Tico Specials,"Adventure, Slice of Life",Special,2,6.78,137
 19797,Nanbo no Monjai! 2: Yankee Gurentai,"Action, Comedy",OVA,1,5.00,56
@@ -10896,9 +10896,9 @@ anime_id,name,genre,type,episodes,rating,members
 18967,Zukkoke Sannin-gumi: Zukkoke Jikuu Bouken,"Comedy, Historical, Sci-Fi",OVA,1,6.13,76
 13455,Zumomo to Nupepe,Comedy,TV,32,7.00,120
 34096,Gintama (2017),"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,0,0,13383
-34134,One Punch Man 2,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",TV,0,,90706
-30484,Steins;Gate 0,"Sci-Fi, Thriller",,0,,60999
-25777,Shingeki no Kyojin Season 2,"Action, Drama, Fantasy, Shounen, Super Power",TV,0,,170054
+34134,One Punch Man 2,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",TV,0,0,90706
+30484,Steins;Gate 0,"Sci-Fi, Thriller",TV,0,0,60999
+25777,Shingeki no Kyojin Season 2,"Action, Drama, Fantasy, Shounen, Super Power",TV,0,0,170054
 34437,Code Geass: Fukkatsu no Lelouch,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",,0,,22748
 33486,Boku no Hero Academia 2nd Season,"Action, Comedy, School, Shounen, Super Power",TV,0,,46892
 32937,Kono Subarashii Sekai ni Shukufuku wo! 2,"Adventure, Comedy, Fantasy, Magic, Supernatural",TV,0,,54069
@@ -12273,18 +12273,18 @@ anime_id,name,genre,type,episodes,rating,members
 5559,Nijuusou: Wana ni Ochita Onna-tachi,Hentai,OVA,1,5.20,240
 18197,Nudl Nude,"Comedy, Hentai, Parody",OVA,1,4.14,186
 18199,Nudl Nude 2,"Comedy, Hentai, Parody",OVA,1,4.00,146
-34492,Nuki Doki! Tenshi to Akuma no Sakusei Battle - Revolution,Hentai,OVA,0,,392
+34492,Nuki Doki! Tenshi to Akuma no Sakusei Battle - Revolution,Hentai,OVA,0,0,392
 29111,Onna Spy Goumon: Teki no Ajito wa Jotai Goumonsho,Hentai,OVA,1,3.14,108
 32713,Original C-V-P Momoko,Hentai,OVA,2,4.00,66
 12397,Original Video Romance Animation,"Comedy, Hentai",OVA,2,4.66,176
 17833,Pink no Curtain,"Hentai, Slice of Life",OVA,1,3.61,138
-34491,Sagurare Otome The Animation,Hentai,OVA,1,,79
-34312,Saimin Class,Hentai,OVA,0,,240
+34491,Sagurare Otome The Animation,Hentai,OVA,1,0,79
+34312,Saimin Class,Hentai,OVA,0,0,240
 9504,Sakura no Mori,Hentai,OVA,2,4.53,221
-34388,Shikkoku no Shaga The Animation,Hentai,OVA,0,,195
+34388,Shikkoku no Shaga The Animation,Hentai,OVA,0,0,195
 29992,Silent Chaser Kagami,Hentai,OVA,1,4.95,112
 26031,Super Erotic Anime,Hentai,OVA,2,4.45,118
-34399,Taimanin Asagi 3,"Demons, Hentai, Supernatural",OVA,0,,485
+34399,Taimanin Asagi 3,"Demons, Hentai, Supernatural",OVA,0,0,485
 10368,Teleclub no Himitsu,Hentai,OVA,2,4.67,148
 9352,Tenshi no Habataki Jun,Hentai,OVA,1,4.33,201
 5541,The Satisfaction,Hentai,OVA,1,4.37,166
