@@ -2843,7 +2843,7 @@ anime_id,name,genre,type,episodes,rating,members
 2799,Hello! Sandybell,"Adventure, Romance, Shoujo",TV,47,7.15,2587
 1020,Honoo no Mirage: Minagiwa no Hangyakusha,"Action, Drama, Historical, Romance, Shoujo, Shounen Ai, Supernatural",OVA,3,7.15,6006
 2891,Iblard Jikan,Fantasy,OVA,1,7.15,11116
-33242,IS: Infinite Stratos 2 - Infinite Wedding,,Special,1,7.15,6604
+33242,IS: Infinite Stratos 2 - Infinite WeddingSpecial,1,7.15,6604
 29785,Jitsu wa Watashi wa,"Comedy, Fantasy, Romance, School, Shounen, Supernatural",TV,13,7.15,88500
 11299,Keroro Gunsou: KeroZero Shupattsudayo! Zeninshuugou!,"Action, Adventure, Comedy, Mecha, Shounen, Space",Special,1,7.15,683
 3483,Maison Ikkoku: Utsuriyuku Kisetsu no Naka de,"Comedy, Drama, Romance",OVA,1,7.15,1458
@@ -3540,7 +3540,7 @@ anime_id,name,genre,type,episodes,rating,members
 8023,Toaru Kagaku no Railgun: Motto Marutto Railgun,Comedy,Special,2,6.96,26302
 2728,TWO-MIX: White Reflection,Music,Music,1,6.96,1708
 743,Umi ga Kikoeru,"Drama, Romance, School, Slice of Life",Special,1,6.96,25671
-33589,ViVid Strike!,,TV,12,6.96,12345
+33589,ViVid Strike!TV,12,6.96,12345
 595,X OVA,"Drama, Fantasy, Mystery, Romance, Supernatural",OVA,1,6.96,8405
 4548,Yozakura Quartet,"Action, Comedy, Magic, Shounen, Super Power, Supernatural",TV,12,6.96,68023
 313,Ace wo Nerae! (1979),"Drama, Romance, School, Shoujo, Sports",Movie,1,6.95,1564
@@ -6039,7 +6039,7 @@ anime_id,name,genre,type,episodes,rating,members
 17815,Kyoto Animation: Kasa-hen,Fantasy,Special,1,6.27,2317
 4129,Mahou no Tenshi Creamy Mami: Curtain Call,"Comedy, Music, Shoujo",Music,1,6.27,298
 12449,Maken-Ki! Specials,"Ecchi, Sports",Special,6,6.27,13691
-29765,Metropolis (2009),,Movie,1,6.27,313
+29765,Metropolis (2009)Movie,1,6.27,313
 7415,Mukougaoka Chisato wa Tada Mitsumeteita no Datta,Music,Music,1,6.27,794
 10481,Otohime Connection,"Drama, Mystery, Romance, Shoujo, Slice of Life",OVA,1,6.27,259
 2332,Plastic Little,"Action, Adventure, Comedy, Ecchi, Mecha, Military, Romance, Sci-Fi",OVA,1,6.27,7287
@@ -6645,7 +6645,7 @@ anime_id,name,genre,type,episodes,rating,members
 3267,Kingdom of Chaos: Born to Kill,Fantasy,OVA,4,6.02,496
 28959,Kizuna (Special),"Drama, Romance, Slice of Life",Special,1,6.02,394
 5415,La Rose de Versailles,"Drama, Historical, Military, Romance, Shoujo Ai, Slice of Life",Special,1,6.02,1812
-32695,Match Shoujo,,ONA,1,6.02,242
+32695,Match ShoujoONA,1,6.02,242
 9087,"Mobile Suit SD Gundam Musha, Knight, Commando","Action, Comedy, Fantasy, Mecha, Parody",Movie,2,6.02,860
 29323,"Oyaji no, Imo no Kamisama.",Slice of Life,Special,1,6.02,202
 1643,Sailor Victory,"Action, Comedy, Mecha, Sci-Fi",OVA,2,6.02,801
@@ -7017,7 +7017,7 @@ anime_id,name,genre,type,episodes,rating,members
 3684,Dimension Loop,Sci-Fi,OVA,1,5.79,1805
 32608,Endride,"Adventure, Fantasy",TV,24,5.79,38223
 32618,Hietsuki Bushi,"Fantasy, Music, Sci-Fi",Music,1,5.79,103
-33187,Katsudou Shashin,,Movie,1,5.79,607
+33187,Katsudou ShashinMovie,1,5.79,607
 31252,"Korekarasaki, Nando Anata to.","Music, Slice of Life",Music,1,5.79,370
 4058,Makyou Gaiden Le Deus,"Action, Adventure, Mecha, Sci-Fi",OVA,1,5.79,671
 21055,Mission School,"Music, School",Music,1,5.79,243
@@ -7197,7 +7197,7 @@ anime_id,name,genre,type,episodes,rating,members
 13857,Souhaku Shisuferia,Music,Music,1,5.65,261
 9662,Timing,"Horror, Psychological",ONA,1,5.65,558
 4927,Tomoe ga Yuku!,"Adventure, Drama",OVA,2,5.65,317
-30862,Yubi wo Nusunda Onna,,Movie,1,5.65,223
+30862,Yubi wo Nusunda OnnaMovie,1,5.65,223
 7374,100%,Drama,OVA,1,5.64,363
 305,Abashiri Ikka,"Action, Comedy, Shounen",OVA,4,5.64,2000
 2839,Ariel Visual,"Action, Comedy, Mecha, Sci-Fi",OVA,2,5.64,653
@@ -7334,7 +7334,7 @@ anime_id,name,genre,type,episodes,rating,members
 1627,Choushin Hime Dangaizer 3,"Adventure, Ecchi, Mecha, Sci-Fi",OVA,4,5.53,919
 13369,Cornelis,Comedy,Movie,1,5.53,202
 5549,Dengeki Oshioki Musume Gootaman R: Ai to Kanashimi no Final Battle,"Action, Comedy, Ecchi, Parody",OVA,1,5.53,1258
-28987,Kamakura,,Movie,1,5.53,164
+28987,KamakuraMovie,1,5.53,164
 19755,Oshiri Kajiri Mushi (TV) 2nd Season,"Comedy, Kids",TV,32,5.53,450
 16373,Peeping Life: The Perfect Evolution,"Comedy, Slice of Life",OVA,10,5.53,313
 1772,Seishoujo Kantai Virgin Fleet,"Fantasy, Military, School, Sci-Fi",OVA,3,5.53,892
@@ -7348,7 +7348,7 @@ anime_id,name,genre,type,episodes,rating,members
 11389,Happy Kappy Recap,"Comedy, Fantasy, Shoujo",Special,1,5.52,191
 8782,Hiyoko Gumo,"Fantasy, Kids, Music",Music,1,5.52,490
 32346,makemagic,"Fantasy, Music",Music,1,5.52,178
-19219,Modern No.2,,Movie,1,5.52,374
+19219,Modern No.2Movie,1,5.52,374
 31107,Summer Train!,Slice of Life,Special,1,5.52,247
 29955,Insomniac,Music,Music,1,5.51,108
 7782,Kämpfer Picture Drama,Comedy,Special,1,5.51,10213
@@ -7425,7 +7425,7 @@ anime_id,name,genre,type,episodes,rating,members
 27927,Urawa no Usagi-chan,"Comedy, School, Slice of Life",TV,12,5.45,8554
 7475,Ano Ko ni 1000%,"Romance, School, Shoujo",OVA,1,5.44,1084
 32789,Answer,"Music, Supernatural, Vampire",Music,1,5.44,103
-29629,Coffee Break,,Movie,1,5.44,265
+29629,Coffee BreakMovie,1,5.44,265
 7523,Fuku-chan no Sensuikan,"Comedy, Historical, Military",Movie,1,5.44,183
 7569,Idol Ace,Comedy,ONA,1,5.44,559
 8993,Juliet,"Ecchi, Romance",OVA,1,5.44,284
@@ -7497,7 +7497,7 @@ anime_id,name,genre,type,episodes,rating,members
 30162,Hone Hone Rock,"Kids, Music",Music,1,5.37,101
 1751,Jikuu Bouken Nuumamonjaa,"Action, Comedy, Fantasy",OVA,1,5.37,5348
 31512,Love &amp; Gift,Slice of Life,ONA,1,5.37,155
-28653,Maze,,Movie,1,5.37,138
+28653,MazeMovie,1,5.37,138
 22471,Mirakururun Grand Purin!,"Kids, Music",Music,1,5.37,152
 8935,Nekketsu Uchuujin,"Comedy, Sci-Fi",ONA,1,5.37,832
 3882,Seijuuki Cyguard,"Mecha, Sci-Fi, Supernatural",OVA,1,5.37,1632
@@ -7590,7 +7590,7 @@ anime_id,name,genre,type,episodes,rating,members
 1855,JaJa Uma! Quartet,"Adventure, Comedy, Fantasy, Magic, Shounen",OVA,2,5.26,869
 7843,Kiekaketa Monogataritachi no Tame ni,Dementia,Movie,1,5.26,448
 20725,"Lies, Lies.",Music,Music,1,5.26,185
-31834,Mormorando,,Movie,1,5.26,181
+31834,MormorandoMovie,1,5.26,181
 1287,Odin: Koushi Hansen Starlight,"Action, Adventure, Drama, Sci-Fi",Movie,1,5.26,1408
 28687,Poker,Music,Music,1,5.26,311
 8958,Potecco Babies,Comedy,ONA,2,5.26,184
@@ -7644,7 +7644,7 @@ anime_id,name,genre,type,episodes,rating,members
 5322,Mugen Kouro,"Action, Sci-Fi, Space",ONA,4,5.21,891
 7273,Nido to Mezamenu Komori Uta,"Dementia, Drama",Movie,1,5.21,591
 5017,Yume no Kakera,Music,Music,1,5.21,776
-31507,Ari Ningen Monogatari,,Movie,1,5.20,191
+31507,Ari Ningen MonogatariMovie,1,5.20,191
 32803,Dreaming Pupa: Yumemiru Bokura,Music,Music,1,5.20,96
 32247,Tekkon Kinkreet Pilot,"Action, Adventure, Psychological, Supernatural",Special,1,5.20,345
 2310,Chou Kidou Densetsu DinaGiga,"Mecha, Sci-Fi",OVA,2,5.19,596
@@ -7684,7 +7684,7 @@ anime_id,name,genre,type,episodes,rating,members
 10859,Sorette♡Dakara ne!,Slice of Life,ONA,1,5.15,1223
 3252,Super Express Mazinger 7,"Mecha, Sci-Fi",Movie,1,5.15,362
 30404,Taku Boda,Dementia,Movie,1,5.15,115
-31760,Tsuru Shitae Waka Kan,,Movie,1,5.15,195
+31760,Tsuru Shitae Waka KanMovie,1,5.15,195
 6836,Issunboushi: Chibisuke Monogatari,"Action, Samurai",Movie,1,5.14,445
 6846,Kuma ni Kuwarenu Otoko,"Adventure, Music",Movie,1,5.14,322
 1286,MD Geist II: Death Force,"Mecha, Military, Sci-Fi",OVA,1,5.14,4344
@@ -7707,7 +7707,7 @@ anime_id,name,genre,type,episodes,rating,members
 5904,B.B. Fish,"Drama, Romance, Seinen",OVA,1,5.12,835
 9491,Katsugeki Shoujo Tanteidan,"Action, Comedy, School",OVA,1,5.12,557
 13835,Marimo no Hana: Saikyou Butouha Shougakusei Densetsu,"Action, Shoujo",OVA,1,5.12,3259
-28587,Modern,,Movie,1,5.12,237
+28587,ModernMovie,1,5.12,237
 21891,Natsumi Step!,Music,Music,1,5.12,136
 752,Osakana wa Ami no Naka,"Drama, Shounen Ai",OVA,1,5.12,5435
 10763,Robot Taekwon V,"Action, Mecha",Movie,1,5.11,191
@@ -7715,7 +7715,7 @@ anime_id,name,genre,type,episodes,rating,members
 31513,Aoki Seimei Hoken,Comedy,Special,1,5.11,158
 112,Chou Henshin Cosprayers,"Action, Adventure, Comedy, Ecchi, Fantasy, Magic, Sci-Fi, Super Power",TV,8,5.11,5555
 5299,Coffee Tadaiku,Slice of Life,Movie,1,5.11,413
-31831,Fantasy,,Movie,1,5.12,193
+31831,FantasyMovie,1,5.12,193
 28993,Hand Soap,"Dementia, Psychological",Movie,1,5.11,246
 1621,Haru no Ashioto The Movie: Ourin Dakkan,"Action, Comedy, School",Movie,1,5.11,1243
 7259,Kenju Giga,"Parody, Psychological",Movie,1,5.11,480
@@ -7737,7 +7737,7 @@ anime_id,name,genre,type,episodes,rating,members
 32765,Cherry Blossom (Music),Music,Music,1,5.08,113
 21335,Double Circle,"Sci-Fi, Super Power",ONA,6,5.08,4249
 29944,Kuchao,Dementia,Movie,1,5.08,184
-31833,Metamorphose,,Movie,1,5.08,175
+31833,MetamorphoseMovie,1,5.08,175
 23023,Peaceful Times (F02) Petit Film,Music,Music,1,5.07,1650
 5622,The Chocolate Panic Picture Show,"Dementia, Psychological",OVA,1,5.08,1024
 7485,Urashima Tarou,Historical,Movie,1,5.08,409
@@ -7758,7 +7758,7 @@ anime_id,name,genre,type,episodes,rating,members
 13795,The Green Wind,Fantasy,Special,1,5.06,295
 9777,Umacha,Slice of Life,Special,2,5.06,748
 7810,Yami wo Mitsumeru Hane,Dementia,Movie,1,5.06,500
-30399,Arigatou Gomennasai,,Movie,1,5.05,115
+30399,Arigatou GomennasaiMovie,1,5.05,115
 33541,Bishoujo Yuugi Unit Crane Game Girls Galaxy,"Comedy, Game, Space",TV,0,5.04,1624
 12803,Chinkoroheibei Tamatebako,"Comedy, Fantasy, Kids",Movie,1,5.05,350
 6841,Maabou no Kinoshita Toukichirou,Samurai,Movie,1,5.05,442
@@ -7823,7 +7823,7 @@ anime_id,name,genre,type,episodes,rating,members
 31139,Ame-iro Cocoa: Rainy Color e Youkoso!,"Comedy, Slice of Life",TV,12,4.92,5888
 6392,Issho ni Training: Training with Hinako,"Ecchi, Sports",OVA,1,4.92,11989
 29989,Kaze no Kokyuu: Animation ni Yoru Oufuku Shokan,Dementia,Movie,1,4.92,132
-28655,PiKA PiKA,,Movie,1,4.92,289
+28655,PiKA PiKAMovie,1,4.92,289
 30104,Seichou Rap,Music,Music,1,4.93,105
 9976,Wakaranai Buta,Drama,Movie,1,4.92,333
 28831,Anomalies,Psychological,Special,1,4.91,238
@@ -7875,7 +7875,7 @@ anime_id,name,genre,type,episodes,rating,members
 31633,Sushi Police,"Comedy, Police",TV,13,4.80,9096
 4462,Tairiki Tarou no Mucha Shuugyou,Action,Movie,1,4.80,852
 8663,Yokoo&#039;s 3 Animation Films,"Psychological, Romance",OVA,3,4.80,440
-31832,Zawazawa,,Movie,1,4.80,216
+31832,ZawazawaMovie,1,4.80,216
 29293,Isu,Dementia,Movie,1,4.79,259
 17151,Mogu Mogu,Music,Music,1,4.79,217
 6830,Hinomaru Hatanosuke: Inazuma-gumi Tobatsu no Maki,"Action, Historical, Samurai",Movie,1,4.78,432
@@ -7898,7 +7898,7 @@ anime_id,name,genre,type,episodes,rating,members
 5661,Umi no Momotarou,Samurai,Movie,1,4.72,525
 30664,Jinkou no Rakuen,Dementia,Movie,1,4.71,133
 31578,JK Meshi!,Comedy,TV,26,4.71,7131
-28647,Kappo,,Movie,1,4.71,335
+28647,KappoMovie,1,4.71,335
 31501,Master Blaster,"Dementia, Music",Music,1,4.71,165
 30331,Motion Lumine,Dementia,Movie,1,4.71,124
 4934,A.F,"Action, Mecha, Sci-Fi",Special,1,4.70,646
@@ -7981,7 +7981,7 @@ anime_id,name,genre,type,episodes,rating,members
 28843,Watashi no Kao,"Dementia, Horror",Movie,1,4.31,457
 30668,Walking Man,Dementia,Movie,1,4.30,211
 6838,Dekobou no Jidousha Ryokou,"Adventure, Cars",Movie,1,4.28,575
-29957,Count Down,,Movie,1,4.27,231
+29957,Count DownMovie,1,4.27,231
 2777,Generation of Chaos Next: Chikai no Pendant,"Action, Adventure, Fantasy, Military, Romance",OVA,1,4.27,615
 1812,Hanoka,Sci-Fi,TV,12,4.27,1686
 6828,Ohi-sama to Kaeru,Comedy,Movie,1,4.27,359
@@ -8234,7 +8234,7 @@ anime_id,name,genre,type,episodes,rating,members
 8521,Biriken Nandemo Shoukai,"Comedy, Kids",TV,22,4.77,96
 9812,Bit the Cupid,Comedy,TV,48,6.00,109
 33950,Black Clover,"Action, Comedy, Fantasy, Magic, Shounen",Special,1,8.60,2247
-29764,Blend,,Movie,1,3.89,90
+29764,BlendMovie,1,3.89,90
 24793,Bloody Bunny,Comedy,TV,26,5.26,170
 4680,Bocchan,Historical,Special,1,6.17,317
 29886,Bogeul Bogeul Bomulseon,"Adventure, Fantasy",Movie,1,6.33,63
@@ -8278,7 +8278,7 @@ anime_id,name,genre,type,episodes,rating,members
 31868,Bug tte Honey: Megarom Shoujo Mai 4622,"Adventure, Comedy",Movie,1,6.00,58
 16786,Bulsajo Robot Phoenix King,"Action, Mecha, Shounen, Space",Movie,1,3.11,133
 24881,Bunbuku Chagama,Kids,Movie,1,7.10,88
-29921,Bunbuku Chagama (1958),,Movie,1,5.52,86
+29921,Bunbuku Chagama (1958)Movie,1,5.52,86
 32760,Bungaku Shounen no Yuuutsu,"Drama, Music",Music,1,6.30,37
 23611,Bunna yo Ki kara Orite Koi,"Adventure, Kids",Movie,1,6.25,53
 29743,Buonomo,Slice of Life,ONA,13,6.00,48
@@ -8303,7 +8303,7 @@ anime_id,name,genre,type,episodes,rating,members
 23185,Chamebou Kuukijuu no Maki,Comedy,Movie,1,8.40,66
 23187,Chamebou Shin Gachou: Nomi Fuufu Shikaeshi no Maki,Comedy,Movie,1,6.00,72
 30267,Chan Shuo A Kuan,"Comedy, Slice of Life",Movie,1,5.50,41
-29655,Chanda Gou,,Movie,1,4.42,91
+29655,Chanda GouMovie,1,4.42,91
 21025,Chang,"Drama, Military, Thriller",Movie,1,6.33,248
 29821,Channel 5.5,"Comedy, Parody",ONA,4,5.32,196
 29861,Channel 5.5 3rd Season Prologue,Comedy,ONA,1,4.91,155
@@ -8564,7 +8564,7 @@ anime_id,name,genre,type,episodes,rating,members
 23973,Fuku-chan,"Kids, Slice of Life",TV,71,5.00,56
 23969,Fuku-chan no Kishuu,"Comedy, Historical",Movie,1,6.67,77
 23971,Fuku-chan no Zousan Butai,"Comedy, Historical",Movie,1,7.40,68
-29923,Fukusuke,,Movie,1,4.69,103
+29923,FukusukeMovie,1,4.69,103
 23975,Fukuyama Gekijou: Natsu no Himitsu,"Fantasy, Kids",OVA,1,6.50,61
 30342,Funassyi no Funafunafuna Biyori,"Comedy, Kids, Slice of Life",TV,130,6.86,123
 30556,Funassyi to Yukaina Kyoudai,"Comedy, Kids",ONA,0,4.80,57
@@ -8715,7 +8715,7 @@ anime_id,name,genre,type,episodes,rating,members
 31263,Grim,Dementia,Movie,1,4.32,121
 19751,Gu-Gu Ganmo (Movie),Comedy,Movie,1,5.58,69
 11995,Guilstein,"Action, Horror, Sci-Fi",Movie,1,5.33,286
-31510,Guitar,,Movie,1,4.11,47
+31510,GuitarMovie,1,4.11,47
 28347,Guitar Shoujo!,Slice of Life,Special,1,4.54,134
 10270,Gun-dou Musashi Recap,"Adventure, Fantasy, Samurai",Special,1,4.62,227
 18521,GUNbare! Game Tengoku 2 the Movie,"Action, Adventure, Comedy",OVA,1,5.09,88
@@ -8765,7 +8765,7 @@ anime_id,name,genre,type,episodes,rating,members
 29269,Hangyodon no Parallel Daisakusen: Mirai Sekai wa Oosawagi,"Kids, Sci-Fi",OVA,1,5.67,50
 28575,"Hanshin Awaji Daishinsai ni Manabu: Boku wa, Ano Hi wo Wasurenai.","Drama, Historical, Kids",OVA,1,7.00,44
 12643,Happening Star ☆,"Comedy, Sci-Fi",OVA,1,5.25,74
-30861,Happy Bogeys,,Movie,12,8.17,38
+30861,Happy BogeysMovie,12,8.17,38
 32783,Happy Hour,Music,Music,1,4.24,69
 30411,Happy Jozy,Comedy,TV,0,5.38,211
 11545,Happyakuyachou Hyouri Kewaishi,"Drama, Historical",TV,16,5.68,200
@@ -8896,10 +8896,10 @@ anime_id,name,genre,type,episodes,rating,members
 26323,Hitotsu no Hana,"Drama, Historical, Kids",OVA,1,6.50,49
 21549,Hitotsuboshi-ke no Ultra Baasan,"Comedy, Slice of Life",TV,13,4.88,85
 10509,Hoero! Bun Bun (Movie),Kids,Movie,1,6.28,120
-32636,Hokori Inu no Hanashi,,ONA,1,4.36,51
+32636,Hokori Inu no HanashiONA,1,4.36,51
 16828,Hokseong Robot Sseondeo A,"Action, Mecha, Shounen",Movie,1,3.50,83
 5207,Hokuro Kyoudai Full Throttle!!!!,Comedy,ONA,7,3.97,127
-31511,Holiday,,Movie,1,6.56,37
+31511,HolidayMovie,1,6.56,37
 29587,Home My Home,Kids,Movie,1,4.13,106
 30134,Hong Gil Dong 2084,"Action, Adventure",Movie,1,5.00,55
 16556,Hong Kil-dong,"Adventure, Fantasy, Historical",Movie,1,5.08,81
@@ -8937,7 +8937,7 @@ anime_id,name,genre,type,episodes,rating,members
 29671,Hyoutan,Psychological,Movie,1,4.74,88
 16007,Hyoutan Suzume,Fantasy,Movie,1,5.00,136
 9902,Hyper ERT,Kids,TV,20,6.00,73
-31509,Ichi-gan Kuni,,Movie,1,7.17,36
+31509,Ichi-gan KuniMovie,1,7.17,36
 28485,Ichiban Chikaku ni,"Drama, Slice of Life",OVA,1,6.00,45
 6060,Ichigatsu ni wa Christmas,Romance,OVA,1,5.93,247
 9518,Ichigo Ichie: Kimi no Kotoba,Comedy,TV,13,6.90,274
@@ -8954,7 +8954,7 @@ anime_id,name,genre,type,episodes,rating,members
 29651,Ikedaya Soudou,"Drama, Historical, Samurai",Movie,1,3.85,81
 21053,Ikemen Kyuugo-tai Nurse Angels,Comedy,TV,10,5.44,95
 19965,Ikinari Dagon,"Adventure, Fantasy",TV,12,5.63,72
-28487,Ikite Iru,,OVA,1,5.75,42
+28487,Ikite IruOVA,1,5.75,42
 29814,Ikiteirutte Subarashii!,Kids,Movie,1,4.42,78
 26227,"Ikitemasu, 15-sai.","Drama, Kids",OVA,1,6.33,53
 19947,Ikkyuu-san (1978),"Action, School, Sports",TV,26,7.23,167
@@ -9103,7 +9103,7 @@ anime_id,name,genre,type,episodes,rating,members
 30245,Kamaishi no &quot;Kiseki&quot;: Inochi wo Mamoru Tokubetsu Jugyou,Drama,Special,1,5.00,92
 29985,Kamen no Marionette-tachi,Dementia,Movie,1,6.75,61
 13769,Kamen no Ninja Akakage,"Action, Fantasy",TV,23,6.89,202
-34292,Kamigami no Ki,,TV,0,4.33,76
+34292,Kamigami no KiTV,0,4.33,76
 19993,Kaminari Boy Pikkaribee★,"Adventure, Comedy, Kids",TV,54,6.20,64
 13817,Kamiusagi Rope,"Comedy, Slice of Life",Movie,14,6.00,137
 30154,Kamiusagi Rope (ONA),"Comedy, Slice of Life",ONA,0,6.00,49
@@ -9135,12 +9135,12 @@ anime_id,name,genre,type,episodes,rating,members
 18583,Kangetsu Ittou: Akuryou Kiri,"Action, Martial Arts, Samurai",OVA,2,5.23,91
 29551,Kanimanji Engi,Fantasy,Movie,1,4.79,103
 17217,Kankara Sanshin,"Drama, Historical",Movie,1,8.00,125
-30435,Kankou Taisen Saitama: Sakuya no Tatakai,,ONA,4,4.24,103
+30435,Kankou Taisen Saitama: Sakuya no TatakaiONA,4,4.24,103
 23727,Kansuke-san to Fushigi na Jitensha,"Fantasy, Kids",Movie,1,5.50,53
 23639,Kappa Kawatarou,"Kids, Supernatural",Movie,1,4.85,101
 9584,Kappa no Sanpei,"Adventure, Kids, Supernatural",Movie,1,6.11,121
 29491,Kappa no Suribachi,"Fantasy, Kids",Movie,1,5.00,46
-31506,Kappa no Ude,,Movie,1,4.46,62
+31506,Kappa no UdeMovie,1,4.46,62
 20123,Kappamaki,"Comedy, Slice of Life",TV,130,5.43,75
 8065,Karakuri Kengou Den Musashi Lord,"Action, Adventure, Mecha",TV,50,6.37,208
 5140,Karaoke Senshi Mike-tarou,"Kids, Music",TV,20,7.05,159
@@ -9169,7 +9169,7 @@ anime_id,name,genre,type,episodes,rating,members
 32832,Kaze no You ni,"Drama, Slice of Life",Movie,1,6.14,741
 24681,Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone Specials,"Adventure, Drama, Historical, Slice of Life",Special,2,6.24,103
 20143,Kazu &amp; Yasu Hero Tanjou,"Drama, Sports",Movie,1,6.67,78
-28691,Kemurigusa Monogatari,,Movie,1,7.33,56
+28691,Kemurigusa MonogatariMovie,1,7.33,56
 29433,Ken to Kaijuu,"Fantasy, Kids, Magic",Special,6,5.67,44
 32420,Ken-chan,"Kids, Music",Music,1,4.75,37
 21099,Kenji no Trunk,"Fantasy, Kids",Movie,1,6.10,120
@@ -9263,7 +9263,7 @@ anime_id,name,genre,type,episodes,rating,members
 23637,Kobito to Ao Mushi,"Kids, Music",Movie,1,6.43,74
 19585,Kobo-chan,"Comedy, Kids, Slice of Life",TV,63,6.72,160
 22511,Kobutori,"Comedy, Demons",Movie,1,5.38,125
-29920,Kobutori (1957),,Movie,1,4.75,90
+29920,Kobutori (1957)Movie,1,4.75,90
 34503,Kochinpa! Dainiki,Comedy,TV,24,3.40,75
 33877,Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Hashire! Ryoutsu-shiki Chinchin Densha,"Comedy, Police",Special,1,7.00,108
 33874,Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Maguro no Notta Keikan,"Comedy, Police",Special,1,6.96,117
@@ -9411,7 +9411,7 @@ anime_id,name,genre,type,episodes,rating,members
 31984,Lupin Shanshei Pilot,"Comedy, Parody",Special,1,5.50,171
 33755,Ma Shen,"Drama, Game",ONA,0,6.00,306
 7500,Maabou no Shounen Koukuu Tsuwamono,Historical,Movie,1,5.88,110
-30055,Mabeob Chunjamun: Daemawangui Buhwaleul Magala,,Movie,1,4.60,41
+30055,Mabeob Chunjamun: Daemawangui Buhwaleul MagalaMovie,1,4.60,41
 30057,Mabeobsaui Adeul Koli,"Adventure, Comedy, Fantasy",TV,13,4.20,44
 27965,Maboroshi Mabo-chan,"Adventure, Fantasy, Kids",TV,24,6.00,52
 4905,Mach Girl,"Cars, Comedy",TV,26,5.47,222
@@ -9557,7 +9557,7 @@ anime_id,name,genre,type,episodes,rating,members
 26251,Mina no Mura to Mori,"Drama, Kids",OVA,1,6.20,43
 32475,Minami no Kuni kara Kita Tegami,"Kids, Music",Music,1,5.80,43
 25071,Minami no Niji no Lucy Specials,"Adventure, Drama, Slice of Life",Special,2,7.60,93
-29767,Minamo,,Movie,1,4.04,106
+29767,MinamoMovie,1,4.04,106
 26277,Minamoto no Yoritomo to Bushi no Yononaka,"Drama, Historical, Kids, Samurai",OVA,1,7.67,49
 7452,Mini Moni Yaru no da Pyon!,Comedy,TV,66,4.78,146
 31410,Mini Van 2nd Season,"Comedy, Game, Parody, Slice of Life",TV,26,6.10,373
@@ -9900,7 +9900,7 @@ anime_id,name,genre,type,episodes,rating,members
 33414,Otona no Ikkyuu-san,"Comedy, Historical",Special,3,5.00,67
 32073,Otoshidama,"Kids, Music",Music,1,4.00,39
 23515,Otsuki-sama to Oujo,Fantasy,OVA,1,6.20,68
-29922,Ou-sama Ninatta Kitsune,,Movie,1,4.16,74
+29922,Ou-sama Ninatta KitsuneMovie,1,4.16,74
 7106,Ougon Senshi Gold Lightan,"Mecha, Sci-Fi",TV,52,6.57,287
 29399,Ousama Monogatari,"Adventure, Kids",TV,0,5.60,101
 7526,Ousama no Shippo,Fantasy,Movie,1,5.64,107
@@ -9975,7 +9975,7 @@ anime_id,name,genre,type,episodes,rating,members
 31464,Pichiko Dakyuubu,"Comedy, Sports",TV,29,5.00,39
 31465,Pichiko Dakyuubu USA-hen,"Comedy, Sports",Special,3,4.92,41
 30386,Pikaia!,"Drama, Kids, Slice of Life",TV,13,5.80,483
-31078,PikkaPika Summer,,TV,31,5.67,96
+31078,PikkaPika SummerTV,31,5.67,96
 20005,Pinch to Punch,Comedy,TV,156,5.71,66
 17423,Pink Lady Monogatari: Eikou no Tenshi-tachi,"Drama, Music, Slice of Life",TV,33,6.33,111
 25601,Pink Lady Monogatari: Eikou no Tenshitachi Recaps,"Drama, Music, Slice of Life",Special,2,7.33,54
@@ -10150,7 +10150,7 @@ anime_id,name,genre,type,episodes,rating,members
 28615,Sazae-san: Dawn to Ikka de Hawaii Ryokou,"Comedy, Slice of Life",Special,1,6.14,107
 4684,Scarecrowman,"Fantasy, Kids",TV,26,7.13,160
 27961,Science Anime: Choudendou Monogatari,"Historical, Kids",Special,1,8.00,42
-33318,Scripta Volant,,Movie,1,6.27,22
+33318,Scripta VolantMovie,1,6.27,22
 10850,Seibu Tetsudou Ekiin Tako-chan,"Comedy, Parody, Police, Slice of Life",ONA,12,4.12,99
 16245,Seikimatsu Leader Gaiden Takeshi!,"Comedy, School, Shounen",Special,1,6.14,94
 33163,Seishain Cyborg 003,Comedy,ONA,2,4.39,155
@@ -10240,7 +10240,7 @@ anime_id,name,genre,type,episodes,rating,members
 22313,Shinken Densetsu: Tight Road,"Action, Martial Arts",TV,13,5.67,103
 26159,Shinken Seminar Koukou Kouza,"School, Shounen",ONA,1,6.06,149
 7052,Shinshuu Sudama-hen,"Action, Historical, Martial Arts, Samurai, Seinen",OVA,4,6.41,252
-31508,Shinya Doubutsuen,,Movie,1,6.29,32
+31508,Shinya DoubutsuenMovie,1,6.29,32
 10633,Shiodome Cable TV,Comedy,TV,22,5.35,114
 26263,Shiokari Touge,"Drama, Kids",OVA,1,6.00,45
 13449,Shippuu! Iron Leaguer: Silver no Hata no Moto ni,"Mecha, Sports",OVA,5,6.94,137
@@ -10421,7 +10421,7 @@ anime_id,name,genre,type,episodes,rating,members
 34000,Sugar Bunnies Fleur Specials,Kids,Special,2,3.67,44
 33998,Sugar Bunnies: Taisetsu na Tomodachi e...,Kids,Special,1,5.00,46
 4440,Sugata Sanshirou,"Action, Martial Arts, Sports",Special,1,6.65,158
-33320,Suijun Genten,,Movie,1,7.00,13
+33320,Suijun GentenMovie,1,7.00,13
 7683,Suiren no Hito,Drama,Movie,1,6.00,126
 11713,Suisenzuki no Yokka,"Fantasy, Kids",Special,1,6.75,86
 4553,Sukima no Kuni no Polta,Fantasy,TV,13,5.67,217
@@ -10572,7 +10572,7 @@ anime_id,name,genre,type,episodes,rating,members
 33525,Tokyo 2164,Sci-Fi,ONA,1,3.27,59
 29780,Tokyo Fantasia,"Dementia, Music",Movie,1,5.04,95
 33533,Tokyo Onlypic,"Comedy, Parody, Sports",Movie,1,6.33,29
-30408,Tokyo SOS,,Movie,1,2.72,87
+30408,Tokyo SOSMovie,1,2.72,87
 33884,Tokyu Plaza Ginza Open,Slice of Life,Special,1,5.00,45
 25069,Tom Sawyer no Bouken Specials,"Adventure, Drama, Historical, Slice of Life",Special,2,6.16,133
 13457,Tomodachi 8-nin,Comedy,TV,0,5.42,125
@@ -10716,7 +10716,7 @@ anime_id,name,genre,type,episodes,rating,members
 29747,Warai no Show Gakkou,"Comedy, Kids",TV,20,6.00,38
 30083,Warenai Tamago,"Comedy, Kids, Music",Music,1,4.44,74
 22219,Warera Salaryman Tou,"Comedy, Slice of Life",TV,26,8.67,57
-33319,Wareware no Heya,,Movie,1,8.00,15
+33319,Wareware no HeyaMovie,1,8.00,15
 33791,Warui no wo Taose!! Salaryman Man,"Comedy, Parody",ONA,1,5.04,74
 22503,Washimo,"Comedy, Kids, School, Sci-Fi, Slice of Life",TV,10,5.92,209
 29099,Washimo 2nd Season,"Comedy, Kids, School, Sci-Fi, Slice of Life",TV,24,5.45,86
@@ -10804,7 +10804,7 @@ anime_id,name,genre,type,episodes,rating,members
 18817,Yasai no Yousei: Quiz Gekijou,"Comedy, Kids",Movie,1,6.00,87
 33933,Yasamura Yasashi no Yasashii Sekai,Comedy,TV,17,4.44,369
 30969,Yasashii Ookami,Kids,OVA,1,4.00,36
-32644,Yaseruyagi,,ONA,1,3.42,30
+32644,YaseruyagiONA,1,3.42,30
 33908,Yasoukyoku,Music,Music,1,5.14,82
 25749,Yatterman Specials,"Adventure, Comedy, Parody",Special,2,6.48,208
 29739,Yatterman x Toshiba,Comedy,Special,1,4.32,144
@@ -10860,7 +10860,7 @@ anime_id,name,genre,type,episodes,rating,members
 18983,Yuuto-kun ga Iku,"Kids, Sports",TV,26,3.83,93
 22197,Yuuto-kun ga Iku Movie,"Kids, Sports",Movie,1,6.50,60
 12765,Yuuyake Banchou,Action,TV,26,6.36,109
-30309,Yuuyake Dandan,,Movie,6,5.55,542
+30309,Yuuyake DandanMovie,6,5.55,542
 6272,Zakuro Yashiki,Historical,OVA,1,6.21,531
 31838,Ze Tian Ji,"Action, Adventure, Fantasy",ONA,13,6.80,180
 33048,Zegapain ADP,"Action, Mecha, Romance, Sci-Fi",Movie,1,6.35,1859
@@ -10894,65 +10894,65 @@ anime_id,name,genre,type,episodes,rating,members
 18967,Zukkoke Sannin-gumi: Zukkoke Jikuu Bouken,"Comedy, Historical, Sci-Fi",OVA,1,6.13,76
 13455,Zumomo to Nupepe,Comedy,TV,32,7.00,120
 34096,Gintama (2017),"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV,0,0,13383
-33071,Bungou Stray Dogs OVA,"Mystery, Seinen, Supernatural",OVA,1,,8350
-9488,Cencoroll 2,"Action, Sci-Fi",Movie,1,,15181
-28833,Chain Chronicle: Haecceitas no Hikari,"Action, Adventure, Fantasy, Magic, Shounen",TV,12,,5678
-33729,Chain Chronicle: Haecceitas no Hikari Part 2,"Action, Adventure, Fantasy, Magic, Shounen",Movie,1,,2069
-33730,Chain Chronicle: Haecceitas no Hikari Part 3,"Action, Adventure, Fantasy, Magic, Shounen",Movie,1,,1861
-33388,Charanpo Shima no Monogatari,,Movie,1,,142
-28377,Choujikuu Robo Meguru,"Comedy, Mecha",OVA,1,,713
-32152,Closers: Side Blacklambs,"Fantasy, Game",ONA,12,,2306
-34244,Crayon Shin-chan Movie 25: Shin-chan Shuurai! Uchuujin Shiriri,"Comedy, Kids, Shounen",Movie,1,,151
-34008,Days OVA,"School, Shounen, Sports",OVA,2,,3156
-34430,Detective Conan Movie 21: Deep Red Love Letter,"Action, Drama, Historical, Mystery, Police, Romance",Movie,1,,1997
-34299,Digimon Adventure tri. 4: Soushitsu,"Action, Adventure, Comedy, Drama",Movie,1,,6529
-33672,Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken,"Adventure, Comedy, Fantasy, Kids, Shounen",Movie,1,,172
-31678,Dragon Nest: Throne of Elves,"Action, Adventure, Fantasy, Magic",Movie,1,,1466
-3786,Evangelion: 3.0+1.0,"Action, Mecha, Sci-Fi",Movie,1,,66600
-30778,Fairy Tail Movie 2,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",Movie,1,,16446
-34321,Fate/Grand Order: First Order,"Action, Fantasy, Magic, Supernatural",Special,1,,5005
-34100,Fate/kaleid liner Prisma☆Illya Movie,"Action, Comedy, Fantasy, Magic",Movie,1,,7373
-33049,Fate/stay night Movie: Heaven&#039;s Feel 2,"Action, Fantasy, Magic, Supernatural",Movie,1,,10067
-33050,Fate/stay night Movie: Heaven&#039;s Feel 3,"Action, Fantasy, Magic, Supernatural",Movie,1,,4282
-33457,Gakuen Handsome Special,"Comedy, Parody, School, Shounen Ai",Special,1,,751
-33389,Genba no Joukitsune,,Movie,1,,133
-34527,Gou-chan. Moko to Chinjuu no Mori no Nakama-tachi,"Adventure, Kids",Movie,1,,5
-30532,Gundam Build Fighters OVA,"Action, Mecha, Sci-Fi",OVA,1,,1370
-23279,Gyakusatsu Kikan,"Psychological, Sci-Fi",Movie,1,,12529
-33378,Haikara-san ga Tooru Movie,"Comedy, Historical, Romance, Shoujo",Movie,1,,890
-34016,Hatsukoi Monster OVA,"Comedy, Romance, School, Shoujo",OVA,1,,2673
-34125,High School Fleet OVA,"Action, Military, School",OVA,1,,3857
-33204,Hirune Hime: Shiranai Watashi no Monogatari,"Drama, Mecha",Movie,1,,4186
-32133,Kemushi no Boro,Kids,Movie,1,,286
-34032,King of Prism: Pride the Hero,"Music, Shoujo, Sports",Movie,1,,620
-31758,Kizumonogatari III: Reiketsu-hen,"Action, Mystery, Supernatural, Vampire",Movie,1,,27504
-33519,Koutetsujou no Kabaneri Soushuuhen 1: Tsudou Hikari,"Action, Drama, Fantasy, Horror",Movie,1,,8961
-33520,Koutetsujou no Kabaneri Soushuuhen 2: Moeru Inochi,"Action, Drama, Fantasy, Horror",Movie,1,,8986
-31658,Kuroko no Basket: Last Game,"School, Shounen, Sports",Movie,1,,15817
-31812,Kuroshitsuji Movie: Book of the Atlantic,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",Movie,1,,20335
-34021,Lupin the IIIrd: Chikemuri no Ishikawa Goemon,"Action, Adventure, Comedy, Drama",Movie,1,,785
-17947,Mahou Shoujo Lyrical Nanoha Reflection,"Action, Comedy, Drama, Magic, Super Power",Movie,1,,4772
-32900,Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo,"Action, Magic, Romance, School, Sci-Fi, Supernatural",Movie,1,,13884
-20715,Mint,"Drama, Fantasy",Movie,1,,1186
-34315,Shimajirou to Niji no Oasis,Kids,Movie,1,,23
-30736,Shingeki no Bahamut: Virgin Soul,"Action, Adventure, Demons, Fantasy, Magic, Supernatural",TV,24,,20953
-33036,Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai,"Comedy, Drama, Romance, School",Movie,1,,10668
-33013,Super Lovers OVA,"Comedy, Drama, Romance, Shounen Ai",OVA,1,,5210
-34086,Tales of Zestiria the X (2017),"Action, Adventure, Fantasy",TV,12,,10848
-34310,Tamagotchi Movie: Tanpen Himitsu no Otodoke Daisakusen!,,Movie,1,,51
-33308,Tantei Opera Milky Holmes: Fun Fun Party Night♪ - Ken to Janet no Okurimono,"Comedy, Mystery, Super Power",Special,1,,610
-34416,The Snack World: Hitogirai no Renny,"Adventure, Comedy, Fantasy, Kids",Movie,1,,36
-33473,Tokyo Futago Athletic,"Comedy, Sports",ONA,8,,75
-33581,Trinity Seven Movie: Eternity Library to Alchemic Girl,"Action, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School, Shounen",Movie,1,,19813
-23275,Tsubu★Doll,Music,OVA,5,,1060
-34498,"Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",Drama,Movie,1,,531
-32012,Utakata Overdrive,"Fantasy, Music",OVA,1,,649
-32222,Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!,"Comedy, Kids, Supernatural",Movie,1,,237
-34471,Youkai Watch Movie 4,"Comedy, Kids, Supernatural",Movie,1,,169
-34284,Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou,"Drama, Fantasy, Magic, Slice of Life",TV,6,,2593
-34445,Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou,"Drama, Fantasy, Magic, Slice of Life",TV,6,,4439
-33035,Yuyushiki Special,,Special,1,,2294
-33390,Zunda Horizon,,Movie,1,,160
+33071,Bungou Stray Dogs OVA,"Mystery, Seinen, Supernatural",OVA,18350
+9488,Cencoroll 2,"Action, Sci-Fi",Movie,115181
+28833,Chain Chronicle: Haecceitas no Hikari,"Action, Adventure, Fantasy, Magic, Shounen",TV,125678
+33729,Chain Chronicle: Haecceitas no Hikari Part 2,"Action, Adventure, Fantasy, Magic, Shounen",Movie,12069
+33730,Chain Chronicle: Haecceitas no Hikari Part 3,"Action, Adventure, Fantasy, Magic, Shounen",Movie,11861
+33388,Charanpo Shima no MonogatariMovie,1142
+28377,Choujikuu Robo Meguru,"Comedy, Mecha",OVA,1713
+32152,Closers: Side Blacklambs,"Fantasy, Game",ONA,122306
+34244,Crayon Shin-chan Movie 25: Shin-chan Shuurai! Uchuujin Shiriri,"Comedy, Kids, Shounen",Movie,1151
+34008,Days OVA,"School, Shounen, Sports",OVA,23156
+34430,Detective Conan Movie 21: Deep Red Love Letter,"Action, Drama, Historical, Mystery, Police, Romance",Movie,11997
+34299,Digimon Adventure tri. 4: Soushitsu,"Action, Adventure, Comedy, Drama",Movie,16529
+33672,Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken,"Adventure, Comedy, Fantasy, Kids, Shounen",Movie,1172
+31678,Dragon Nest: Throne of Elves,"Action, Adventure, Fantasy, Magic",Movie,11466
+3786,Evangelion: 3.0+1.0,"Action, Mecha, Sci-Fi",Movie,166600
+30778,Fairy Tail Movie 2,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",Movie,116446
+34321,Fate/Grand Order: First Order,"Action, Fantasy, Magic, Supernatural",Special,15005
+34100,Fate/kaleid liner Prisma☆Illya Movie,"Action, Comedy, Fantasy, Magic",Movie,17373
+33049,Fate/stay night Movie: Heaven&#039;s Feel 2,"Action, Fantasy, Magic, Supernatural",Movie,110067
+33050,Fate/stay night Movie: Heaven&#039;s Feel 3,"Action, Fantasy, Magic, Supernatural",Movie,14282
+33457,Gakuen Handsome Special,"Comedy, Parody, School, Shounen Ai",Special,1751
+33389,Genba no JoukitsuneMovie,1133
+34527,Gou-chan. Moko to Chinjuu no Mori no Nakama-tachi,"Adventure, Kids",Movie,15
+30532,Gundam Build Fighters OVA,"Action, Mecha, Sci-Fi",OVA,11370
+23279,Gyakusatsu Kikan,"Psychological, Sci-Fi",Movie,112529
+33378,Haikara-san ga Tooru Movie,"Comedy, Historical, Romance, Shoujo",Movie,1890
+34016,Hatsukoi Monster OVA,"Comedy, Romance, School, Shoujo",OVA,12673
+34125,High School Fleet OVA,"Action, Military, School",OVA,13857
+33204,Hirune Hime: Shiranai Watashi no Monogatari,"Drama, Mecha",Movie,14186
+32133,Kemushi no Boro,Kids,Movie,1286
+34032,King of Prism: Pride the Hero,"Music, Shoujo, Sports",Movie,1620
+31758,Kizumonogatari III: Reiketsu-hen,"Action, Mystery, Supernatural, Vampire",Movie,127504
+33519,Koutetsujou no Kabaneri Soushuuhen 1: Tsudou Hikari,"Action, Drama, Fantasy, Horror",Movie,18961
+33520,Koutetsujou no Kabaneri Soushuuhen 2: Moeru Inochi,"Action, Drama, Fantasy, Horror",Movie,18986
+31658,Kuroko no Basket: Last Game,"School, Shounen, Sports",Movie,115817
+31812,Kuroshitsuji Movie: Book of the Atlantic,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",Movie,120335
+34021,Lupin the IIIrd: Chikemuri no Ishikawa Goemon,"Action, Adventure, Comedy, Drama",Movie,1785
+17947,Mahou Shoujo Lyrical Nanoha Reflection,"Action, Comedy, Drama, Magic, Super Power",Movie,14772
+32900,Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo,"Action, Magic, Romance, School, Sci-Fi, Supernatural",Movie,113884
+20715,Mint,"Drama, Fantasy",Movie,11186
+34315,Shimajirou to Niji no Oasis,Kids,Movie,123
+30736,Shingeki no Bahamut: Virgin Soul,"Action, Adventure, Demons, Fantasy, Magic, Supernatural",TV,2420953
+33036,Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai,"Comedy, Drama, Romance, School",Movie,110668
+33013,Super Lovers OVA,"Comedy, Drama, Romance, Shounen Ai",OVA,15210
+34086,Tales of Zestiria the X (2017),"Action, Adventure, Fantasy",TV,1210848
+34310,Tamagotchi Movie: Tanpen Himitsu no Otodoke Daisakusen!Movie,151
+33308,Tantei Opera Milky Holmes: Fun Fun Party Night♪ - Ken to Janet no Okurimono,"Comedy, Mystery, Super Power",Special,1610
+34416,The Snack World: Hitogirai no Renny,"Adventure, Comedy, Fantasy, Kids",Movie,136
+33473,Tokyo Futago Athletic,"Comedy, Sports",ONA,875
+33581,Trinity Seven Movie: Eternity Library to Alchemic Girl,"Action, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School, Shounen",Movie,119813
+23275,Tsubu★Doll,Music,OVA,51060
+34498,"Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",Drama,Movie,1531
+32012,Utakata Overdrive,"Fantasy, Music",OVA,1649
+32222,Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!,"Comedy, Kids, Supernatural",Movie,1237
+34471,Youkai Watch Movie 4,"Comedy, Kids, Supernatural",Movie,1169
+34284,Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou,"Drama, Fantasy, Magic, Slice of Life",TV,62593
+34445,Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou,"Drama, Fantasy, Magic, Slice of Life",TV,64439
+33035,Yuyushiki SpecialSpecial,12294
+33390,Zunda HorizonMovie,1160
 11879,Oni Chichi: Re-born,Hentai,OVA,2,7.89,14342
 29575,Mankitsu Happening,Hentai,OVA,4,7.83,8510
 15843,Koiito Kinenbi The Animation,Hentai,OVA,2,7.75,6940
@@ -12095,7 +12095,7 @@ anime_id,name,genre,type,episodes,rating,members
 19747,Dakaretai Onna,"Hentai, Romance",OVA,2,3.43,144
 20177,Gin no Otoko,"Hentai, Romance",OVA,1,3.44,126
 9304,Happy Day,Hentai,OVA,1,4.94,172
-34168,Hataraku Otona no Renai Jijou The Animation,Hentai,OVA,1,,331
+34168,Hataraku Otona no Renai Jijou The Animation,Hentai,OVA,1331
 20007,Hi Gekiga Ukiyoe Senya Ichiya,"Action, Hentai",Movie,1,1.92,129
 9503,Hokenshitsu de Aimashou,Hentai,OVA,1,4.38,306
 17823,Ikenai Boy,"Comedy, Harem, Hentai",OVA,1,3.56,179
